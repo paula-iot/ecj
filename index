@@ -732,6 +732,8 @@ em.gold{color:var(--gold);font-style:normal}
     </div>
   </section>
 
+</div><!-- /wrapper -->
+
 <!-- FOOTER -->
 <footer class="doc-footer">
   <div class="doc-footer-brand"><span>Kairos</span> × Espaço Cidade Jardim</div>
